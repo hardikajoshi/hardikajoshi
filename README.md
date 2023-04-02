@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HARDIKA JOSHI</h1>
-<h3 align="center">A Computer Science Engineering Sophomore at VIT Bhopal</h3>
+<h3 align="center">A Computer Science Engineering Pre-Final year student at VIT Bhopal</h3>
 
 - 🌱 I’m currently learning *WEB DEVELOPMENT*
 
