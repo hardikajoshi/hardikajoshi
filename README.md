@@ -7,13 +7,13 @@
 
 
 
-- 🔭 I’m currently working on [Angular.js](and Mongo DB.)
+- 🔭 I’m currently working on Angular.js(and Mongo DB.)
 
 - 🌱 I’m currently learning *Machine Learning*.
   
 - ☁️ Beginner at Salesforce, consistently improving.
 
-- 👯 I’m looking to collaborate on [Hackathons](and new Projects.)
+- 👯 I’m looking to collaborate on Hackathons (and new Projects.)
 
 - Inclined towards data analytics and finance too.
 
