@@ -17,7 +17,7 @@
 
 - Inclined towards data analytics and finance too.
 
-- 📫 How to reach me *hardikajoshi2406@gamil.com*
+- 📫 How to reach me *hardikajoshi2406@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
