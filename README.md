@@ -39,7 +39,10 @@
 
   <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikajoshi&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
    <tr><td>😀</td></tr>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hardikajoshi)](https://leetcode.com/hardikajoshi)
 </table>
+
     
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikajoshi&show_icons=true&locale=en&layout=compact" alt="hardikajoshi" /></p>
