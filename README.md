@@ -41,7 +41,7 @@
 
 </table>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hardikajoshi?theme=nord&font=Cairo&ext=activity)](https://leetcode.com/hardikajoshi) 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hardikajoshi?theme=nord&font=Cairo](https://leetcode.com/hardikajoshi) 
 
     
 
