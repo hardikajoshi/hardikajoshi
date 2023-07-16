@@ -35,7 +35,6 @@
    
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=hardikajoshi&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
 
   <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikajoshi&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
 
