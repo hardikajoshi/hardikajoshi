@@ -40,7 +40,7 @@
   <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikajoshi&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
    <tr><td>😀</td></tr>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hardikajoshi)](https://leetcode.com/hardikajoshi)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hardikajoshi?theme=nord&font=Cairo&ext=activity)](https://leetcode.com/hardikajoshi)
 </table>
 
     
