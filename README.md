@@ -9,17 +9,15 @@
 
 
 
-- 🌱 I’m currently learning *Machine Learning*.
+- I’m currently learning *Machine Learning*.
   
-- ☁️ Beginner at Salesforce, consistently improving.
+- Beginner at Salesforce, consistently improving.
 
-- 👯 I’m looking to collaborate on Hackathons (and new Projects.)
+- I’m looking to collaborate on Hackathons (and new Projects.)
 
 - Inclined towards data analytics and finance too.
 
-- 📫 How to reach me *hardikajoshi2406@gmail.com*
-
-- To know more about me, check <a href="https://drive.google.com/drive/folders/1c7smlBv4L1lu0tkgJDINFVPXBryLd8ob?usp=sharing">Hardika Joshi</a>
+- How to reach me *hardikajoshi2406@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
