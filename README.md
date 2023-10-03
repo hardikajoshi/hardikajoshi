@@ -7,8 +7,6 @@
 
 
 
-
-
 - I’m currently learning *Machine Learning*.
   
 - Beginner at Salesforce, consistently improving.
@@ -36,7 +34,6 @@
   <tr>
 
   <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikajoshi&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
-
 </table>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/hardikajoshi?theme=nord&font=Cairo)](https://leetcode.com/hardikajoshi) 
