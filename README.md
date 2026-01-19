@@ -36,8 +36,4 @@
   <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikajoshi&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
 </table>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hardikajoshi?theme=nord&font=Cairo)](https://leetcode.com/hardikajoshi) 
-
-    
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikajoshi&show_icons=true&locale=en&layout=compact" alt="hardikajoshi" /></p>
